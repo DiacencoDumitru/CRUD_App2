@@ -1,4 +1,4 @@
-## @PostMapping
+## CRUD, Метод POST
 
 ### Теория:
 
